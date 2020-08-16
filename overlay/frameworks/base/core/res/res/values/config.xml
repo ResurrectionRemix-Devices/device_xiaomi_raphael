@@ -421,5 +421,9 @@
 
     <!-- Disable SBC HD audio dual channel support by default -->
     <bool name="config_enableSBCDualChannelAudio">false</bool>
+
+    <!-- Whether device supports variable refresh rate -->
+    <bool name="config_hasVariableRefreshRate">false</bool>
+
 </resources>
 
